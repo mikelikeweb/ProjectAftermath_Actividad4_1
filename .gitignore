@@ -1,0 +1,47 @@
+# =====================================
+# UNITY - ARCHIVOS TEMPORALES
+# =====================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Bb]uild/
+[Bb]uilds/
+
+# =====================================
+# VISUAL STUDIO
+# =====================================
+
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.suo
+*.tmp
+
+# =====================================
+# SISTEMA OPERATIVO
+# =====================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =====================================
+# RECURSOS DE TERCEROS
+# =====================================
+
+# Dragon Warrior
+/Assets/Sprites/character/
+/Assets/Sprites/Dragon Warrior Files/
+
+# Recursos graficos de Haven Bay
+/Assets/GameAssets/buildings/
+/Assets/GameAssets/floor/
